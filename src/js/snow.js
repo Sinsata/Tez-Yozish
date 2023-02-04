@@ -1,1 +1,0 @@
-for(var snow_text="",i=0;i<200;i++)snow_text+='<div class="snow"></div>';function gtag(){dataLayer.push(arguments)}document.getElementById("snow").innerHTML=snow_text,window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-LLWL5N9CSM");
